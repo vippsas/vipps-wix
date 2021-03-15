@@ -43,7 +43,7 @@ There is a special quirk you need to be aware of: When fulfilling, you need to a
 Remember, you can also use the Vipps Portal to capture the orders.
 
 # How can I get help if I have any issues?
-For issues with your Vipps for Shopify installation contact us via our [support system here](https://crude.no/vipps-wix-support/). For other issues you should contact [Vipps](https://github.com/vippsas/vipps-developers/blob/master/contact.md).
+For issues with your Vipps for Wix installation contact us via our [support system here](https://crude.no/vipps-wix-support/). For other issues you should contact [Vipps](https://github.com/vippsas/vipps-developers/blob/master/contact.md).
 
 # Vipps FAQ
 See the [Vipps eCom API FAQ](https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md) for more help with Vipps eCommerce.
