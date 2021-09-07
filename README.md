@@ -1,4 +1,4 @@
-# Vipps for Wix (not released yet)
+# Vipps for Wix
 
 The Vipps product page is here: https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/Wix/
 
