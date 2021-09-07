@@ -36,11 +36,12 @@ See: [Getting Started](https://github.com/vippsas/vipps-developers/blob/master/v
 Install Vipps for Wix by following [these instructions](https://crude.no/vipps-for-wix/).
 
 # Important notes
-To enable automatic capture when fulfilling orders in Wix, you'll need to install our assistant app together with the actual payment gateway. How to install the assistant app is outlined in the installation instructions above.
+It is not possible to capture a order from within Wix Admin, you'll need to use the Vipps Portal to do the captures on each order. This is very important, since if you forgot to capture the orders, you won't get the payment.
 
-There is a special quirk you need to be aware of: When fulfilling, you need to add a tracking number to the order to make the auto-capture run. You can leave the tracking number field empty, and you dont need to send email to the customer from Wix, but you need to submit the tracking number form.
+We are aware that this is not the most optimal solution for merchants, but this is a restriction which we can't go around for now. We will of course optimize this as soon as it is possible.
 
-Remember, you can also use the Vipps Portal to capture the orders.
+# How to manage the Vipps orders in Wix Admin
+See [Order management in Wix](https://github.com/vippsas/vipps-wix/blob/main/order-management.md)
 
 # How can I get help if I have any issues?
 For issues with your Vipps for Wix installation contact us via our [support system here](https://crude.no/vipps-wix-support/). For other issues you should contact [Vipps](https://github.com/vippsas/vipps-developers/blob/master/contact.md).
