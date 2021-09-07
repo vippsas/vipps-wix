@@ -33,7 +33,20 @@ When you enable this plugin, your customers will be able to choose Vipps as a pa
 See: [Getting Started](https://github.com/vippsas/vipps-developers/blob/master/vipps-developer-portal-getting-started.md) with the Vipps Portal, and the Vipps eCommerce [FAQ](https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md).
 
 # Installation
-Install Vipps for Wix by following [these instructions](https://crude.no/vipps-for-wix/).
+Install Vipps for Wix by following [these instructions](https://crude.no/vipps-for-wix/) or you can read more below.
+
+## Log in to your Wix Admin
+## Go to Settings -> Accept payments
+![image](https://user-images.githubusercontent.com/61109180/132360200-30587852-ebab-443b-94d1-ac01606301c0.png)
+
+## Choose “See more payment options”
+![image](https://user-images.githubusercontent.com/61109180/132362154-4246aaed-995e-41f9-8ba0-2bb142f66794.png)
+
+## Click connect button on Vipps
+![image](https://user-images.githubusercontent.com/61109180/132362264-f25a9a7d-b4ba-4339-862f-4c260743bc69.png)
+
+## Enter API keys and click connect button
+![image](https://user-images.githubusercontent.com/61109180/132362356-7900361e-ca7f-4092-9a9e-784e8afe7fcb.png)
 
 # Important notes
 It is not possible to capture a order from within Wix Admin, you'll need to use the Vipps Portal to do the captures on each order. This is very important, since if you forgot to capture the orders, you won't get the payment.
