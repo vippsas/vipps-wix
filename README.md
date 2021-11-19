@@ -6,7 +6,7 @@ See the main GitHub page for Vipps contact information, etc: https://github.com/
 
 # Description
 
-Official Vipps Payment for Wix. More than 3.6 million Norwegians use Vipps. Give them a fast and familiar shopping experience in Wix too!
+Official Vipps Payment for Wix. More than 4 million Norwegians use Vipps. Give them a fast and familiar shopping experience in Wix too!
 
 This is the official Vipps plugin that provides a direct integration with Wix. Now you can let your customers choose Vipps directly in the checkout.
 
@@ -14,14 +14,18 @@ You can also do important back office tasks such as capture and refund directly 
 
 Read [information from Vipps](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/Wix/) about the plugin.
 
-# Vipps Express Checkout
-Vipps does not yet have a solution for express checkout in Wix
-
 # Vipps Payment
 When you enable this plugin, your customers will be able to choose Vipps as a payment method directly in the checkout. There is no need to go via a third party payment method. If your customer choose Vipps, the customer fills in their contact information and is then asked to enter their phone number in the Vipps dialogue. Then the customer confirms the payment in the Vipps app. The order is now completed and are now stored in your Wix store.
 
+# Vipps Express Checkout
+Vipps does not yet have a solution for express checkout in Wix
+
+# Vipps Recurring Payments
+Vipps does not have a solution for recurring payments in Wix
+
 # How to get started
-- Sign up to use Vipps på Nett [vipps.no](https://portal.vipps.no/login).
+- Log into [portal.vipps.no](https://portal.vipps.no/login) with BankID.
+- Sign up to use Vipps på Nett
 - After 1-2 days you will get an email with login details to Vipps Developer Portal, where you can get the API credentials
 - Download and configure
 
