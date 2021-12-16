@@ -53,9 +53,15 @@ Install Vipps for Wix by following [these instructions](https://crude.no/vipps-f
 ![image](https://user-images.githubusercontent.com/61109180/132362356-7900361e-ca7f-4092-9a9e-784e8afe7fcb.png)
 
 # Important notes
-It is not possible to capture a order from within Wix Admin, you'll need to use the Vipps Portal to do the captures on each order. This is very important, since if you forgot to capture the orders, you won't get the payment.
+It is not possible to capture a order from within Wix Admin, you’ll need to use the [Vipps Portal](https://portal.vipps.no) to do the captures on each order. This is very important, since if you forgot to capture the orders, you won’t get the payment.
 
-We are aware that this is not the most optimal solution for merchants, but this is a restriction which we can't go around for now. We will of course optimize this as soon as it is possible.
+The reason for this is limitations in Wix, and lack of support for making the necessary API calls to Vipps. We are simply not able to automate this, and make it posible to do captures directly in Wix.
+
+Norwegian law is strict: Is it not legal to do the capture before the goods are sent or provided to the customer. This is different in other countries, and because of this there is limited support for the Norwegian reserve and capture requirments.
+
+We are aware that this is not the most optimal solution for merchants, but this is a restriction which we can’t go around for now. We will of course optimize this as soon as it is possible.
+
+Learn more about[the difference between reserve and capture here](https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md#what-is-the-difference-between-reserve-capture-and-direct-capture)
 
 # How to manage the Vipps orders in Wix Admin
 See [Order management in Wix](https://github.com/vippsas/vipps-wix/blob/main/order-management.md)
