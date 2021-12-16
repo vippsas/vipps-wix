@@ -61,7 +61,7 @@ Norwegian law is strict: Is it not legal to do the capture before the goods are 
 
 We are aware that this is not the most optimal solution for merchants, but this is a restriction which we can’t go around for now. We will of course optimize this as soon as it is possible.
 
-Learn more about[the difference between reserve and capture here](https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md#what-is-the-difference-between-reserve-capture-and-direct-capture)
+Learn more about [the difference between reserve and capture here](https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md#what-is-the-difference-between-reserve-capture-and-direct-capture)
 
 # How to manage the Vipps orders in Wix Admin
 See [Order management in Wix](https://github.com/vippsas/vipps-wix/blob/main/order-management.md)
