@@ -2,7 +2,7 @@
 
 The Vipps product page is here: https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/Wix/
 
-See the main GitHub page for Vipps contact information, etc: https://github.com/vippsas 
+See the main page for Vipps contact information, etc: https://developer.vippsmobilepay.com/
 
 # Description
 
@@ -34,7 +34,7 @@ Vipps does not have a solution for recurring payments in Wix
 2. Select the "Utvikler" ("Developer") tab and choose Production Keys. Here you can find the merchant serial number (6 figures)
 3. Click on "Show keys" under the API keys column to see “Client ID”, “Client Secret” and “Vipps Subscription Key”
 
-See: [Getting Started](https://github.com/vippsas/vipps-developers/blob/master/vipps-developer-portal-getting-started.md) with the Vipps Portal, and the Vipps eCommerce [FAQ](https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md).
+See: [Getting Started](https://developer.vippsmobilepay.com/docs/vipps-developers/) with the Vipps Portal, and the Vipps [FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/).
 
 # Installation
 Install Vipps for Wix by following [these instructions](https://crude.no/vipps-for-wix/) or you can read more below.
@@ -55,19 +55,19 @@ Install Vipps for Wix by following [these instructions](https://crude.no/vipps-f
 # Important notes
 It is not possible to capture a order from within Wix Admin, you’ll need to use the [Vipps Portal](https://portal.vipps.no) to do the captures on each order. This is very important, since if you forgot to capture the orders, you won’t get the payment.
 
-The reason for this is limitations in Wix, and lack of support for making the necessary API calls to Vipps. We are simply not able to automate this, and make it posible to do captures directly in Wix.
+The reason for this is limitations in Wix, and lack of support for making the necessary API calls to Vipps. We are simply not able to automate this, and make it possible to do captures directly in Wix.
 
-Norwegian law is strict: Is it not legal to do the capture before the goods are sent or provided to the customer. This is different in other countries, and because of this there is limited support for the Norwegian reserve and capture requirments.
+Norwegian law is strict: Is it not legal to do the capture before the goods are sent or provided to the customer. This is different in other countries, and because of this there is limited support for the Norwegian reserve and capture requirements.
 
 We are aware that this is not the most optimal solution for merchants, but this is a restriction which we can’t go around for now. We will of course optimize this as soon as it is possible.
 
-Learn more about [the difference between reserve and capture here](https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md#what-is-the-difference-between-reserve-capture-and-direct-capture)
+Learn more about [the difference between reserve and capture here](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/reserve-and-capture-faq/#what-is-the-difference-between-reserve-capture-and-direct-capture)
 
 # How to manage the Vipps orders in Wix Admin
 See [Order management in Wix](https://github.com/vippsas/vipps-wix/blob/main/order-management.md)
 
 # How can I get help if I have any issues?
-For issues with your Vipps for Wix installation contact us via our [support system here](https://crude.no/vipps-wix-support/). For other issues you should contact [Vipps](https://github.com/vippsas/vipps-developers/blob/master/contact.md).
+For issues with your Vipps for Wix installation contact us via our [support system here](https://crude.no/vipps-wix-support/). For other issues you should contact [Vipps](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/).
 
 # Vipps FAQ
-See the [Vipps eCom API FAQ](https://github.com/vippsas/vipps-ecom-api/blob/master/vipps-ecom-api-faq.md) for more help with Vipps eCommerce.
+See the [Vipps API FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/) for more help with Vipps eCommerce.
