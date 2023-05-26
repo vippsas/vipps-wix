@@ -30,15 +30,15 @@ Vipps does not have a solution for recurring payments in Wix
 ## How to get started
 
 - Log into [portal.vipps.no](https://portal.vipps.no/login) with BankID.
-- Sign up to use Vipps på Nett
+- Sign up to use *Vipps på Nett*
 - After 1-2 days you will get an email with login details to Vipps Developer Portal, where you can get the API credentials
 - Download and configure
 
 ## How to get Vipps account keys from Vipps Developer Portal
 
 1. Sign in to the [Vipps Portal](https://portal.vipps.no/) using BankID.
-2. Select the *Utvikler* ("Developer") tab and choose *Production Keys*. Here, you can find the merchant serial number (6 figures)
-3. Click on *Show keys* under the API keys column to see “Client ID”, “Client Secret” and “Vipps Subscription Key”
+2. Select the *Utvikler* ("Developer") tab and choose *Production Keys*. Here, you can find the merchant serial number (6 figures).
+3. Click on *Show keys* under the API keys column to see *Client ID*, *Client Secret* and *Vipps Subscription Key*.
 
 See: [API Keys](https://developer.vippsmobilepay.com/docs/vipps-developers/common-topics/api-keys) for more details.
 
