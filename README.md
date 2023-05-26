@@ -3,7 +3,7 @@
 The Vipps product page is [Vipps Wix plugins](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/Wix/).
 To contact Vipps, see the [contact us](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/) page.
 
-This plugin is hosted on [GitHub](https://github.com/vippsas/vipps-shopify).
+This plugin is hosted on [GitHub](https://github.com/vippsas/vipps-wix).
 
 ## Description
 
