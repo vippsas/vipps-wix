@@ -1,16 +1,21 @@
+<!-- START_METADATA
+---
+title: Vipps for Wix plugin
+sidebar_position: 1
+pagination_next: null
+pagination_prev: null
+---
+END_METADATA -->
+
 # Vipps for Wix
 
 <!-- START_COMMENT -->
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/vipps-plugins/). 💥
 <!-- END_COMMENT -->
 
-The Vipps product page is [Vipps Wix plugins](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/Wix/).
-To contact Vipps, see the [contact us](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/) page.
+This module is hosted on [GitHub](https://github.com/vippsas/vipps-wix).
 
-
-## Description
-
-Official Vipps Payment for Wix. More than 4 million Norwegians use Vipps. Give them a fast and familiar shopping experience in Wix too!
+This is the official Vipps Payment for Wix. More than 4 million Norwegians use Vipps. Give them a fast and familiar shopping experience in Wix too!
 
 This is the official Vipps plugin that provides a direct integration with Wix. Now you can let your customers choose Vipps directly in the checkout.
 
@@ -33,9 +38,9 @@ Vipps does not have a solution for recurring payments in Wix
 ## How to get started
 
 - Log into [portal.vipps.no](https://portal.vipps.no/login) with BankID.
-- Sign up to use *Vipps på Nett*
-- After 1-2 days you will get an email with login details to Vipps Developer Portal, where you can get the API credentials
-- Download and configure
+- Sign up to use *Vipps på Nett*.
+- After 1-2 days you will get an email with login details to Vipps Developer Portal, where you can get the API credentials.
+- Download and configure.
 
 ## How to get Vipps account keys from Vipps Developer Portal
 
