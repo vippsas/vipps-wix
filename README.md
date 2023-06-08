@@ -7,15 +7,13 @@ pagination_prev: null
 ---
 END_METADATA -->
 
-# Vipps for Wix
+# Vipps Payment for Wix
 
 <!-- START_COMMENT -->
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/vipps-plugins/). 💥
 <!-- END_COMMENT -->
 
-This module is hosted on [GitHub](https://github.com/vippsas/vipps-wix).
-
-This is the official Vipps Payment for Wix. More than 4 million Norwegians use Vipps. Give them a fast and familiar shopping experience in Wix too!
+This is the official *Vipps Payment for Wix*. More than 4 million Norwegians use Vipps. Give them a fast and familiar shopping experience in Wix too!
 
 This is the official Vipps plugin that provides a direct integration with Wix. Now you can let your customers choose Vipps directly in the checkout.
 
@@ -25,15 +23,15 @@ Read [information from Vipps](https://www.vipps.no/produkter-og-tjenester/bedrif
 
 ## Vipps Payment
 
-When you enable this plugin, your customers will be able to choose Vipps as a payment method directly in the checkout. There is no need to go via a third party payment method. If your customer choose Vipps, the customer fills in their contact information and is then asked to enter their phone number in the Vipps dialogue. Then the customer confirms the payment in the Vipps app. The order is now completed and are now stored in your Wix store.
+When you enable this plugin, your customers will be able to choose Vipps as a payment method directly in the checkout. There is no need to go via a third party payment method. If your customer choose Vipps, the customer fills in their contact information and is then asked to enter their phone number in the Vipps dialogue. Then, the customer confirms the payment in the Vipps app. The order is completed and are stored in your Wix store.
 
 ## Vipps Express Checkout
 
-Vipps does not yet have a solution for express checkout in Wix
+Vipps does not yet have a solution for express checkout in Wix.
 
 ## Vipps Recurring Payments
 
-Vipps does not have a solution for recurring payments in Wix
+Vipps does not have a solution for recurring payments in Wix.
 
 ## How to get started
 
