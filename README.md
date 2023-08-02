@@ -12,7 +12,7 @@ END_METADATA -->
 *This plugin is built and maintained by [Crude](https://crude.no/).*
 
 <!-- START_COMMENT -->
-💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/vipps-plugins/). 💥
+💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins/). 💥
 <!-- END_COMMENT -->
 
 This is the official *Vipps Payment for Wix*. More than 4 million Norwegians use Vipps. Give them a fast and familiar shopping experience in Wix too!
@@ -48,7 +48,7 @@ Vipps does not have a solution for recurring payments in Wix.
 2. Select the *Utvikler* ("Developer") tab and choose *Production Keys*. Here, you can find the merchant serial number (6 figures).
 3. Click on *Show keys* under the API keys column to see *Client ID*, *Client Secret* and *Vipps Subscription Key*.
 
-See: [API Keys](https://developer.vippsmobilepay.com/docs/vipps-developers/common-topics/api-keys) for more details.
+See: [API Keys](https://developer.vippsmobilepay.com/docs/common-topics/api-keys) for more details.
 
 ## Installation
 
@@ -82,7 +82,7 @@ Norwegian law is strict: Is it not legal to do the capture before the goods are 
 
 We are aware that this is not the most optimal solution for merchants, but this is a restriction which we can’t go around for now. We will of course optimize this as soon as it is possible.
 
-Learn more about [the difference between reserve and capture](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/reserve-and-capture-faq/#what-is-the-difference-between-reserve-capture-and-direct-capture).
+Learn more about [the difference between reserve and capture](https://developer.vippsmobilepay.com/docs/faqs/reserve-and-capture-faq/#what-is-the-difference-between-reserve-capture-and-direct-capture).
 
 ## How to manage the Vipps orders in Wix Admin
 
@@ -90,8 +90,8 @@ See [Order management in Wix](order-management.md).
 
 ## How can I get help if I have any issues?
 
-For issues with your Vipps for Wix installation, contact us via our [support system](https://crude.no/vipps-wix-support/). For other issues, contact [Vipps](https://developer.vippsmobilepay.com/docs/vipps-developers/contact/).
+For issues with your Vipps for Wix installation, contact us via our [support system](https://crude.no/vipps-wix-support/). For other issues, contact [Vipps](https://developer.vippsmobilepay.com/docs/contact/).
 
 ## Vipps FAQ
 
-See the [Vipps API FAQ](https://developer.vippsmobilepay.com/docs/vipps-developers/faqs/) for more help with Vipps eCommerce.
+See the [Vipps API FAQ](https://developer.vippsmobilepay.com/docs/faqs/) for more help with Vipps eCommerce.
