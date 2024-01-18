@@ -43,18 +43,23 @@ Vipps does not have a solution for recurring payments in Wix.
 
 ## How to get started
 
-- Log into [portal.vipps.no](https://portal.vipps.no/login) with BankID.
+- Log into [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com).
 - Sign up to use *Vipps på Nett*.
-- After 1-2 days you will get an email with login details to Vipps Developer Portal, where you can get the API credentials.
+- After 1-2 days you will get an email with login details to the merchant portal, where you can get the API credentials.
 - Download and configure.
 
-## How to get Vipps account keys from Vipps Developer Portal
+See [Logging in to the portal](https://developer.vippsmobilepay.com/docs/developer-resources/portal#logging-in).
 
-1. Sign in to the [Vipps Portal](https://portal.vipps.no/) using BankID.
-2. Select the *Utvikler* ("Developer") tab and choose *Production Keys*. Here, you can find the merchant serial number (6 figures).
-3. Click on *Show keys* under the API keys column to see *Client ID*, *Client Secret* and *Vipps Subscription Key*.
+## How to get account keys
 
-See: [API Keys](https://developer.vippsmobilepay.com/docs/knowledge-base/api-keys) for more details.
+1. Sign in to the [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/).
+2. In the *Developer* section, choose *Production Keys*. Here, you can find the merchant serial number (6 figures).
+3. Click on *Show keys* under the *API keys* column to see *Client ID*, *Client Secret*, and *Vipps Subscription Key*.
+
+See:
+
+- [Logging in to the portal](https://developer.vippsmobilepay.com/docs/developer-resources/portal#logging-in)
+- [How to find the API keys](https://developer.vippsmobilepay.com/docs/developer-resources/portal#how-to-find-the-api-keys).
 
 ## Installation
 
@@ -80,7 +85,7 @@ Install Vipps for Wix by following the instructions at [Crude: Vipps for Wix](ht
 
 ## Important notes
 
-It is not possible to capture an order from within Wix Admin. You will need to use the [Vipps Portal](https://portal.vipps.no) to do the captures on each order. This is very important, because, if you forget to capture the orders, you won’t get the payment.
+It is not possible to capture an order from within Wix Admin. You will need to use the Vipps MobilePay [Merchant Portal](https://portal.vippsmobilepay.com) to do the captures on each order. This is very important, because, if you forget to capture the orders, you won’t get the payment.
 
 This is due to limitations in Wix and lack of support for making the necessary API calls to Vipps. We are simply not able to automate this or make it possible to do captures directly in Wix.
 
@@ -98,6 +103,6 @@ See [Order management in Wix](order-management.md).
 
 For issues with your Vipps for Wix installation, contact us via our [support system](https://crude.no/vipps-wix-support/). For other issues, contact [Vipps](https://developer.vippsmobilepay.com/docs/contact/).
 
-## Vipps FAQ
+## FAQ
 
-See the [Vipps API Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base/) for more help with Vipps eCommerce.
+See the [Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base/) for more help with Vipps eCommerce.

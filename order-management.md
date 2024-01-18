@@ -10,13 +10,13 @@ END_METADATA -->
 
 # Vipps for Wix order management
 
-In the [Vipps Portal](https://portal.vipps.no/), administrators will get information regarding sale units, transactions, reports, statistics and portal users.
+In the Vipps MobilePay [Merchant Portal](https://portal.vippsmobilepay.com/), administrators will get information regarding sale units, transactions, reports, statistics and portal users.
 
 The portal requires a user to have a valid Norwegian BankID, which is the most used electronic identification solution in Norway and a Norwegian mobile number.
 
 ![image](https://user-images.githubusercontent.com/61109180/132350641-58dc7a2f-2142-4178-bbae-682d143d2963.png)
 
-From the *Transaksjoner* ("Transactions") menu, you get an overview of all transactions made;
+From the *Transactions* menu, you get an overview of all transactions made;
 as well as creating *Cancellations*, *Captures*, and *Refunds*.
 
 ![image](https://user-images.githubusercontent.com/61109180/132350758-7d9df64f-0ae0-4ce0-9e88-296647f09aed.png)
