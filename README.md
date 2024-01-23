@@ -23,11 +23,9 @@ END_METADATA -->
 
 This is the official *Vipps Payment for Wix*. More than 4 million Norwegians use Vipps. Give them a fast and familiar shopping experience in Wix too!
 
-This is the official Vipps plugin that provides a direct integration with Wix. Now you can let your customers choose Vipps directly in the checkout.
+This is the official Vipps plugin that provides a direct integration with Wix. Now, you can let your customers choose Vipps directly in the checkout.
 
 You can also do important back office tasks such as capture and refund directly from Wix. Easy for your customer and easy for you.
-
-Read [information from Vipps](https://www.vipps.no/produkter-og-tjenester/bedrift/ta-betalt-paa-nett/ta-betalt-paa-nett/Wix/) about the plugin.
 
 ## Vipps Payment
 
