@@ -55,7 +55,7 @@ For more details, see [Applying for services](https://developer.vippsmobilepay.c
 
 See:
 
-- [Logging in to the portal](https://developer.vippsmobilepay.com/docs/developer-resources/portal#logging-in)
+- [Logging in to the portal](https://developer.vippsmobilepay.com/docs/developer-resources/portal)
 - [How to find the API keys](https://developer.vippsmobilepay.com/docs/developer-resources/portal#how-to-find-the-api-keys).
 
 ## Installation
