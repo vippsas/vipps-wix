@@ -14,7 +14,7 @@ END_METADATA -->
 
 ![Vipps](./docs/images/vipps.png) *Available for Vipps.*
 
-![MobilePay](./docs/images/mp.png) *Will be available for use of Checkout for MobilePay in Finland and Denmark in Q1 2024.*
+![MobilePay](./docs/images/mp.png) *Coming soon for use of Checkout for MobilePay in Finland and Denmark.*
 
 *This plugin is built and maintained by [Crude](https://crude.no/).*
 
