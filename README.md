@@ -16,17 +16,18 @@ END_METADATA -->
 
 ![MobilePay](./docs/images/mp.png) *Coming soon for use of Checkout for MobilePay in Finland and Denmark.*
 
-*This plugin is built and maintained by [Crude](https://crude.no/).*
+*This plugin is built and maintained by [Crude](https://crude.no/).
+For support, contact the [support forum on WordPress.org](https://wordpress.org/support/plugin/woo-vipps).*
 
 <!-- START_COMMENT -->
 💥 Please use the plugin pages on [https://developer.vippsmobilepay.com](https://developer.vippsmobilepay.com/docs/plugins-ext/wix/). 💥
 <!-- END_COMMENT -->
 
-This is the official *Vipps Payment for Wix*. More than 4 million Norwegians use Vipps. Give them a fast and familiar shopping experience in Wix too!
+This is the official *Vipps Payment for Wix*. More than 4 million Norwegians use Vipps. Give them a fast and familiar shopping experience in Wix, too!
 
-This is the official Vipps plugin that provides a direct integration with Wix. Now, you can let your customers choose Vipps directly in the checkout.
+This plugin provides a direct integration with Wix. Now, you can let your customers choose Vipps directly in the checkout.
 
-You can also do important back office tasks such as capture and refund directly from Wix. Easy for your customer and easy for you.
+You can also do important back office tasks such as capture and refund directly from Wix. Easy for your customer, and easy for you.
 
 ## Vipps Payment
 
@@ -61,7 +62,7 @@ See:
 
 ## Installation
 
-Install Vipps for Wix by following the instructions at [Crude: Vipps for Wix](https://crude.no/vipps-for-wix/), or read more below.
+Install *Vipps for Wix* by following the instructions at [Crude: Vipps for Wix](https://crude.no/vipps-for-wix/), or read more below.
 
 ### Log in to your Wix Admin
 
@@ -104,3 +105,9 @@ For issues with your Vipps for Wix installation, contact us via our [support sys
 ## FAQ
 
 See the [Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-base/) for more help with Vipps eCommerce.
+
+## Support
+
+For issues with this plugin,
+contact the [support forum on WordPress.org](https://wordpress.org/support/plugin/woo-vipps).
+
