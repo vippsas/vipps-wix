@@ -100,7 +100,7 @@ See [Order management in Wix](order-management.md).
 
 ## How can I get help if I have any issues?
 
-For issues with your Vipps for Wix installation, contact us via our [support system](https://crude.no/vipps-wix-support/). For other issues, contact [Vipps](https://developer.vippsmobilepay.com/docs/contact/#contact-details).
+For issues with your Vipps for Wix installation, contact us via our [support system](https://crude.no/vipps-wix-support/).
 
 ## FAQ
 
