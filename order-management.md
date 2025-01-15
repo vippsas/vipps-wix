@@ -11,7 +11,7 @@ END_METADATA -->
 
 # Vipps for Wix order management
 
-In the Vipps MobilePay [Merchant Portal](https://portal.vippsmobilepay.com/), administrators will get information regarding sale units, transactions, reports, statistics and portal users.
+In the Vipps MobilePay portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), administrators will get information regarding sale units, transactions, reports, statistics, and portal users.
 
 The portal requires a user to have a valid Norwegian BankID, which is the most used electronic identification solution in Norway and a Norwegian mobile number.
 
