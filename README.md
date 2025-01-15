@@ -96,7 +96,11 @@ Learn more about [the difference between reserve and capture](https://developer.
 
 ## How to manage the Vipps orders in Wix Admin
 
-See [Order management in Wix](order-management.md).
+In the Vipps MobilePay portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), administrators will get information regarding sale units, transactions, reports, statistics, and portal users.
+
+For information, see:
+
+[Transactions](https://developer.vippsmobilepay.com/docs/knowledge-base/portal)
 
 ## How can I get help if I have any issues?
 
