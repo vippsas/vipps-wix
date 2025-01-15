@@ -68,19 +68,19 @@ Install *Vipps for Wix* by following the instructions at [Crude: Vipps for Wix](
 
 1. Go to *Settings* > *Accept payments*
 
-   ![image](https://user-images.githubusercontent.com/61109180/132360200-30587852-ebab-443b-94d1-ac01606301c0.png)
+   ![Wix settings panel](https://user-images.githubusercontent.com/61109180/132360200-30587852-ebab-443b-94d1-ac01606301c0.png)
 
 1. Choose *See more payment options*
 
-   ![image](https://user-images.githubusercontent.com/61109180/132362154-4246aaed-995e-41f9-8ba0-2bb142f66794.png)
+   ![Payment options panel](https://user-images.githubusercontent.com/61109180/132362154-4246aaed-995e-41f9-8ba0-2bb142f66794.png)
 
 1. Click *connect* button on Vipps
 
-   ![image](https://user-images.githubusercontent.com/61109180/132362264-f25a9a7d-b4ba-4339-862f-4c260743bc69.png)
+   ![Connect Vipps](https://user-images.githubusercontent.com/61109180/132362264-f25a9a7d-b4ba-4339-862f-4c260743bc69.png)
 
 1. Enter API keys and click *connect* button
 
-   ![image](https://user-images.githubusercontent.com/61109180/132362356-7900361e-ca7f-4092-9a9e-784e8afe7fcb.png)
+   ![Connection panel](https://user-images.githubusercontent.com/61109180/132362356-7900361e-ca7f-4092-9a9e-784e8afe7fcb.png)
 
 ## Important notes
 
