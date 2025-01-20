@@ -84,7 +84,8 @@ Install *Vipps for Wix* by following the instructions at [Crude: Vipps for Wix](
 
 ## Important notes
 
-It is not possible to capture an order from within Wix Admin. You will need to use the Vipps MobilePay [portal](https://portal.vippsmobilepay.com) to do the captures on each order. This is very important, because, if you forget to capture the orders, you won’t get the payment.
+It is not possible to capture an order from within Wix Admin
+You will need to use the Vipps MobilePay portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com), to do the captures on each order. This is very important, because, if you forget to capture the orders, you won’t get the payment.
 
 This is due to limitations in Wix and lack of support for making the necessary API calls to Vipps. We are simply not able to automate this or make it possible to do captures directly in Wix.
 
