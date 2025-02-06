@@ -12,9 +12,6 @@ END_METADATA -->
 
 ![Support and development by Crude ](./docs/images/crude.svg#gh-light-mode-only)![Support and development by Crude](./docs/images/crude_dark.svg#gh-dark-mode-only)
 
-![Vipps icon](./docs/images/vipps.png) *Available for Vipps.*
-
-![MobilePay icon](./docs/images/mp.png) *Coming soon for use of Checkout for MobilePay in Finland and Denmark.*
 
 *This plugin is built and maintained by [Crude](https://crude.no/).
 For support, contact the [support forum on WordPress.org](https://wordpress.org/support/plugin/woo-vipps).*
