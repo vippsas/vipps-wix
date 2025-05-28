@@ -24,7 +24,10 @@ This is the official *Vipps Payment for Wix*. More than 4 million Norwegians use
 
 This plugin provides a direct integration with Wix. Now, you can let your customers choose Vipps directly in the checkout.
 
-You can also do important back office tasks such as capture and refund directly from Wix. Easy for your customer, and easy for you.
+You can also do important back office tasks such as cancel and refund directly from Wix. Easy for your customer, and easy for you.
+
+For capture, you must go through the Vipps MobilePay portal. If you absolutely want orders to be automatically captured, please contact our [support team](https://crude.no/vipps-wix-support/) and we can arrange that. In that case, the amount will not be reserved on the customer's account, but will be charged in full as soon as the order is placed. Read more under [Important notes](https://github.com/vippsas/vipps-wix?tab=readme-ov-file#important-notes)
+
 
 ## Vipps Payment
 
@@ -89,6 +92,8 @@ This is due to limitations in Wix and lack of support for making the necessary A
 Norwegian law is strict: Is it not legal to do the capture before the goods are sent or provided to the customer. This is different in other countries, and because of this there is limited support for the Norwegian reserve and capture requirements.
 
 We are aware that this is not the most optimal solution for merchants, but this is a restriction which we can’t go around for now. We will of course optimize this as soon as it is possible.
+
+If you absolutely want orders to be automatically captured, please contact our [support team](https://crude.no/vipps-wix-support/) and we can arrange that. In that case, the amount will not be reserved on the customer's account, but will be charged in full as soon as the order is placed.
 
 Learn more about [the difference between reserve and capture](https://developer.vippsmobilepay.com/docs/knowledge-base/reserve-and-capture/#what-is-the-difference-between-reserve-capture-and-direct-capture).
 
