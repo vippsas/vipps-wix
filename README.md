@@ -26,7 +26,7 @@ This plugin provides a direct integration with Wix. Now, you can let your custom
 
 You can also do important back office tasks such as cancel and refund directly from Wix. Easy for your customer, and easy for you.
 
-For capture, you must go through the Vipps MobilePay portal. If you absolutely want orders to be automatically captured, please contact our [support team](https://crude.no/vipps-wix-support/) and we can arrange that. In that case, the amount will not be reserved on the customer's account, but will be charged in full as soon as the order is placed. Read more under [Important notes](https://github.com/vippsas/vipps-wix?tab=readme-ov-file#important-notes)
+For capture, you must go through the Vipps MobilePay portal. If you absolutely want orders to be automatically captured, please contact our [support team](https://crude.no/vipps-wix-support/) and we can arrange that. In that case, the amount will not be reserved on the customer's account, but will be charged in full as soon as the order is placed. Read more under [Important notes](#important-notes).
 
 
 ## Vipps Payment
