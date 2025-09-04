@@ -95,7 +95,7 @@ We are aware that this is not the most optimal solution for merchants, but this 
 
 If you absolutely want orders to be automatically captured, please contact our [support team](https://crude.no/vipps-wix-support/) and we can arrange that. In that case, the amount will not be reserved on the customer's account, but will be charged in full as soon as the order is placed.
 
-Learn more about [the difference between reserve and capture](https://developer.vippsmobilepay.com/docs/knowledge-base/reserve-and-capture/#what-is-the-difference-between-reserve-capture-and-direct-capture).
+Learn more about [the difference between reserve and direct capture](https://developer.vippsmobilepay.com/docs/knowledge-base/reserve-and-capture/#reserve-capture-vs-direct-capture).
 
 ## How to manage the Vipps orders in Wix Admin
 
