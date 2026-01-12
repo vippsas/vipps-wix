@@ -6,6 +6,7 @@ sidebar_position: 20
 description: Get information regarding sale units, transactions, reports, statistics and portal users with Wix order management.
 pagination_next: null
 pagination_prev: null
+section: Plugins
 ---
 END_METADATA -->
 

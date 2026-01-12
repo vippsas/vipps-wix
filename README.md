@@ -5,6 +5,7 @@ sidebar_position: 1
 description: Provide Vipps payments for Wix.
 pagination_next: null
 pagination_prev: null
+section: Plugins
 ---
 END_METADATA -->
 
