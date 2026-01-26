@@ -45,14 +45,14 @@ Vipps does not have a solution for recurring payments in Wix.
 ## How to get started
 
 - Sign up to use [*Payment Integration*](https://vippsmobilepay.com/online/payment-integration).
-- After 1-2 days, you will get an email with login details to the Vipps MobilePay Portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), where you can get the API credentials.
+- After 1-2 days, you will get an email with login details to the Vipps MobilePay [business portal](https://portal.vippsmobilepay.com/), where you can get the API credentials.
 - Download and configure.
 
 For more details, see [Applying for services](https://developer.vippsmobilepay.com/docs/knowledge-base/applying-for-services/).
 
 ## How to get account keys
 
-1. Sign in to the [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/).
+1. Sign in to the [business portal](https://portal.vippsmobilepay.com/).
 2. In the *Developer* section, choose *Production Keys*. Here, you can find the merchant serial number (6 figures).
 3. Click on *Show keys* under the *API keys* column to see *Client ID*, *Client Secret*, and *Vipps Subscription Key*.
 
@@ -86,7 +86,7 @@ Install *Vipps for Wix* by following the instructions at [Crude: Vipps for Wix](
 ## Important notes
 
 It is not possible to capture an order from within Wix Admin
-You will need to use the Vipps MobilePay portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com), to do the captures on each order. This is very important, because, if you forget to capture the orders, you won’t get the payment.
+You will need to use the Vipps MobilePay [business portal](https://portal.vippsmobilepay.com) to do the captures on each order. This is very important, because, if you forget to capture the orders, you won’t get the payment.
 
 This is due to limitations in Wix and lack of support for making the necessary API calls to Vipps. We are simply not able to automate this or make it possible to do captures directly in Wix.
 
@@ -100,7 +100,7 @@ Learn more about [the difference between reserve and direct capture](https://dev
 
 ## How to manage the Vipps orders in Wix Admin
 
-In the Vipps MobilePay portal, [portal.vippsmobilepay.com](https://portal.vippsmobilepay.com/), administrators will get information regarding sale units, transactions, reports, statistics, and portal users.
+In the Vipps MobilePay [business portal](https://portal.vippsmobilepay.com/) administrators will get information regarding sale units, transactions, reports, statistics, and portal users.
 
 For information, see:
 
