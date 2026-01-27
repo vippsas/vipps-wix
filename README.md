@@ -118,4 +118,3 @@ See the [Knowledge base](https://developer.vippsmobilepay.com/docs/knowledge-bas
 
 For issues with this plugin,
 contact the [support forum on WordPress.org](https://wordpress.org/support/plugin/woo-vipps).
-
